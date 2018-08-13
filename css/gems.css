@@ -10,7 +10,7 @@
 /* Select the image with class of emerald */
 
 /*selector for emerald goes here */  {
-  position: absolute;
+  position: static;
   z-index: 2;
   top: 350px;
   left: 369px;
